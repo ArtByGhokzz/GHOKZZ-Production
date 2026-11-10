@@ -65,3 +65,44 @@ The payoff for the cliffhanger is in the main video (3:39-3:57, the "spiral effe
 ## Flags for the main video (Task 9)
 - 14:39: Gustav says 10,000 hours is from the book *The Tipping Point*. The 10,000-hour idea is from Malcolm Gladwell's *Outliers*. Fix or re-record.
 - Verify before showing any on-screen proof: "90% of destinies/potential killed by fear of failure" (4:31), "average person spends about 6 hours on the phone" (8:10), "1 billion of 9 billion people" (6:05), and "most people earn within 20-25% of their friends' income" (17:54).
+
+---
+
+# Teaser v2: built around the "destiny / time and attention" line (requested 14:13)
+
+Reference teaser the user supplied (about 14s): "you have to understand that your destiny is directly tied to the things that you give your time and attention to... where energy goes, that is where Destiny flows from, so pay attention to that." In the transcript this is **about 10:08-10:25**. It is the payoff of the COVID cable story, which runs straight into it (9:21-10:08).
+
+## RECOMMENDED (about 47s raw, about 43-44s after trims): "The count-up"
+
+| # | Source | What he says | ~Length | Purpose |
+|---|--------|--------------|---------|---------|
+| 1 | **9:31-9:44** | "Weeks into Covid my daughters were getting depressed. My daughters were getting anxious. They cannot even step outside... I realized one of the reasons is because they were glued in front of the TV watching this covid death count." | 13s | Hook and problem: emotional cold open |
+| 2 | **9:51-9:58** | "The first thing I needed to do, I canceled cable, and since then till today I don't have cable in my house. No TV." | 7s | Decisive action |
+| 3 | **9:58-10:08** | "I realized that why didn't they spend time also doing the count up of the number of people who have been healed and are strong, going back home and saved from covid." | 10s | Insight: the reframe |
+| 4 | **10:08-10:25** | "So you have to understand that your destiny is directly tied to the things that you give your time and attention to. They say what you think about comes about. Where energy goes, that is where Destiny flows from. So pay attention to that." | 17s | Payoff: the anchor line |
+
+Only one jump cut is needed (9:44 to 9:51, skipping "keep talking about only the number of bodies... the count kept increasing and I thought to myself the"). Everything from 9:51 to 10:25 is continuous.
+
+## TIGHTER (about 40s): drop clip 2 (the cable line)
+Clip 1 (9:31-9:44), then 9:58-10:25 continuous. Total about 40s.
+
+## Edit direction
+- Cold open on a tight punch-in with no music, only room tone. Let "depressed" and "anxious" land with a small beat of silence each. Caption them: DEPRESSED, ANXIOUS.
+- Do not show his daughters. Do not use real COVID or hospital footage. Use his face and simple graphics.
+- B-roll: a plain counter or ticker graphic ticking up during "death count" (9:40-9:44). Show no real figures, only the motion. Later a second counter during "healed and are strong". This sets up the "count-up" idea visually.
+- Hide the 9:44-9:51 jump cut with a punch-in change or the counter graphic.
+- Music: low tense pad under clip 1, drops out at "no TV", warms and rises under "healed and are strong", resolves on the anchor line, hard stop after "pay attention to that".
+- Anchor line: make "WHERE ENERGY GOES, THAT IS WHERE DESTINY FLOWS FROM" a full-screen text moment, exact wording from the transcript.
+- End on "pay attention to that" and cut to the title card. Do not include "one the fourth one is materialism" (10:25-10:26). No CTA in the teaser.
+
+## DO THIS IN THE EDIT (v2)
+1. Start at 9:31 on "weeks into Covid my daughters were getting depressed". Open cold, no music.
+2. Caption DEPRESSED and ANXIOUS with a half-second beat each.
+3. Run to 9:44, ending on "...watching this covid death count". Drop the "count count up" stutter.
+4. Show a plain ticking counter graphic over "death count". Show no real numbers.
+5. Jump cut to 9:51 "first thing I needed to do I canceled cable... no TV". Hide the cut with a punch-in change.
+6. Run continuously from 9:58 to 10:08 ("why didn't they spend time also doing the count up... saved from covid"). Cut the music out at "no TV" and bring it back warmer at "healed".
+7. Run continuously into 10:08-10:25, the anchor line.
+8. Full-screen text "WHERE ENERGY GOES, THAT IS WHERE DESTINY FLOWS FROM".
+9. Hard stop on "pay attention to that" and cut to the title card.
+10. Check that the total is 50s or less. If it runs over, use the tighter 40s version.
